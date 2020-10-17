@@ -2,8 +2,18 @@
     background-color: lightsteelblue;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
 .imagem {
-    background-image: url("./city.jpg");
+    background-image: url("./img/city.jpg");
     background-size: cover;
     overflow: hidden;
 }
