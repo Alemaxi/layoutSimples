@@ -1,0 +1,32 @@
+.test {
+    background-color: lightsteelblue;
+}
+
+.imagem {
+    background-image: url("./city.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+
+.caixa {
+    height: 30vw;
+}
+
+.texto {
+    height: 100%;
+}
+
+.nav-item {
+    width: 33.33vw;
+    text-align: center;
+}
+
+.navbar-brand {
+    width: 33.33vw;
+    text-align: center;
+}
+
+.imagem {
+    width:100%;
+}
+
